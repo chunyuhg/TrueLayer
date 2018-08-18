@@ -6,4 +6,4 @@ python:
 install: pip install -r requirements.txt
 
 script: python posts.py --posts 100
-script: python unittest.py
+script: python unittest_posts.py
