@@ -7,7 +7,7 @@ unittest.py file for unittest
 $python unittest.py 
 
 libraries:
-BeautifulSoup4 #scratch the website's data
+BeautifulSoup4 #scraping  the website's data
 sys #use for system.exit
 requests #check the internet connection
 re #use for comparing the string
