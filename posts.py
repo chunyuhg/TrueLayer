@@ -10,12 +10,6 @@ import requests
 import re
 from bs4 import BeautifulSoup
 from argparse import ArgumentParser
-try:
-    # python2
-    from urlparse import urlparse
-except:
-    # python3
-    from urllib.parse import urlparse
 
 #check the url is valid
 def url_validator(url):
