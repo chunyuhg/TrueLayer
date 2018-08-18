@@ -1,10 +1,9 @@
-#print the hacker news posts
-#command:
-
-#posts.py file
+print the hacker news posts
+command:
+posts.py file
 $python posts.py --posts 5
 
-#unittest.py file for unittest
+unittest.py file for unittest
 $python unittest.py 
 
 libraries:
